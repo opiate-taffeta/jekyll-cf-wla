@@ -76,6 +76,8 @@ defaults:
       type: posts
     values:
       layout: splash
+      classes: wide
+      author_profile: false
       read_time: true
       comments: true
       share: true
@@ -86,6 +88,8 @@ defaults:
       type: pages
     values:
       layout: splash
+      classes: wide
+      author_profile: false
 
 category_archive:
   type: liquid
