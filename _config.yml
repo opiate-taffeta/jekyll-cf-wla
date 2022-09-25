@@ -77,6 +77,7 @@ defaults:
     values:
       layout: single
       classes: wide
+      entries_layout: grid
       author_profile: false
       read_time: true
       comments: true
@@ -88,6 +89,7 @@ defaults:
       type: pages
     values:
       layout: single
+      entries_layout: grid
       author_profile: false
       classes: wide
 
